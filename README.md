@@ -43,6 +43,11 @@
   <img src="https://github-profile-trophy.vercel.app?username=AbishekVijay05&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbishekVijay05&show_icons=true&theme=dracula&hide_border=false&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbishekVijay05&layout=compact&theme=dracula&hide_border=false&langs_count=8" height="180" alt="languages graph" />
+</div>
+
 ###
 
 <picture>
